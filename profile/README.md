@@ -27,7 +27,7 @@ Desenvolvedores de API da região de Florianópolis com objetivo de compartilhar
 
 ## Código de Conduta
 
-A comunidade de API segue [esta norma](https://github.com/apifloripa/codeofconduct) como código de conduta.
+A comunidade API Floripa segue [este código de conduta](https://github.com/apifloripa/codeofconduct).
 
 ## Canais de Comunicação
 
