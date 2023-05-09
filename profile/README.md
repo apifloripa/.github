@@ -25,6 +25,10 @@ Os valores da comunidade de API em Florianópolis são:
 
 Desenvolvedores de API da região de Florianópolis com objetivo de compartilhar conteúdo e se especializar em API.
 
+## Código de Conduta
+
+A comunidade de API segue [esta norma](https://github.com/apifloripa/codeofconduct) como código de conduta.
+
 ## Canais de Comunicação
 
 - [Website](https://apifloripa.com.br)
