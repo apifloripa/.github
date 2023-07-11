@@ -34,4 +34,4 @@ A comunidade API Floripa segue [este código de conduta](https://github.com/apif
 - [Website](https://apifloripa.com.br)
 - [YouTube](https://www.youtube.com/@apifloripa)
 - [WhatsApp Community](https://chat.whatsapp.com/CQfyjvQkQEs0Hg4Ym8txEX)
-- [Linkedin](https://www.linkedin.com/groups/9320796)
+- [Linkedin](https://www.linkedin.com/company/96031802)
